@@ -97,3 +97,13 @@ font-size: 18px;
 .footer-img{
     width: 30px;
 }
+.footer-title{
+    color: blanchedalmond
+    }
+    .footer-list{
+        list-style: disc;
+        
+        margin-left: 50px;}
+.link{
+    height: 20px;
+}
